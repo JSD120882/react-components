@@ -1,0 +1,29 @@
+
+.header {
+  background-color: #222;
+  padding: 20px;
+	color: white;
+	text-align: center;
+}
+.title {
+  font-size: 1.5em;
+}
+.card a{
+	position: absolute;
+	bottom: 21px;
+	right: 29px;
+}
+.card h5{
+	color: #bfbfbf;
+	font-size: 15px;
+}
+.card img{
+	width: 24px;
+	position: absolute;
+	right: 10px;
+	top: 5px;
+	cursor: pointer;
+}
+
+
+
